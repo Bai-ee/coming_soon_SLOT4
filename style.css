@@ -1053,7 +1053,7 @@ background-repeat: no-repeat;
   }
   
   .marquee {
-    max-width: 242px;
+    max-width: 500px;
     color: var(--txt-marquee);
     text-transform: uppercase;
     font-weight: 600;
@@ -1061,7 +1061,7 @@ background-repeat: no-repeat;
     padding-top:10px;
     position: relative;
     overflow: hidden;
-    top: -100px;
+    top: -20px;
     font-family:digitalism;
     letter-spacing:3px;
   }
@@ -1304,7 +1304,7 @@ background-repeat: no-repeat;
     }
 
     .marquee {
-      max-width:217px;
+      max-width:400px;
     }
 
    
